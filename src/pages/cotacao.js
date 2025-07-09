@@ -73,6 +73,7 @@ export default function Cotacao() {
                 <td>R$ {item.ask}</td>
                 <td>R$ {item.high}</td>
                 <td>R$ {item.low}</td>
+                
               </tr>
             ))}
           </tbody>
